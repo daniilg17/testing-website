@@ -43,7 +43,7 @@
 
 ## Другие разделы тестирования
 
-- [Корзина](https://github.com/daniilg17/testing-website/blob/main/basket.md) — тест-кейсы функционала корзины  
-- [Регистрация и авторизация](https://github.com/daniilg17/testing-website/blob/main/auth.md) — проверка регистрации, входа и восстановления доступа  
+- [Корзина](https://github.com/daniilg17/testing-website/blob/main/basketQase.md) — тест-кейсы функционала корзины  
+- [Регистрация и авторизация](https://github.com/daniilg17/testing-website/blob/main/authTestIt.md) — проверка регистрации, входа и восстановления доступа  
 - [Оформление заказа](https://github.com/daniilg17/testing-website/blob/main/order.md) — тестирование оформления покупки и выбора способов доставки/оплаты  
 - [Личный кабинет](https://github.com/daniilg17/testing-website/blob/main/profile.md) — тесты работы с аккаунтом пользователя и настройками
