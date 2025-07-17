@@ -39,4 +39,4 @@
 - [Главная страница](https://github.com/daniilg17/testing-website/blob/main/MainPageTR.md) — тест-кейсы функционала главной страницы  
 - [Регистрация и авторизация](https://github.com/daniilg17/testing-website/blob/main/authTestIt.md) — проверка регистрации, входа и восстановления доступа  
 - [Оформление заказа](https://github.com/daniilg17/testing-website/blob/main/orderQatouch.md) — тестирование оформления покупки и выбора способов доставки/оплаты  
-- [Личный кабинет](https://github.com/daniilg17/testing-website/blob/main/profile.md) — тесты работы с аккаунтом пользователя и настройками
+- [Личный кабинет](https://github.com/daniilg17/testing-website/blob/main/profileTestiny.md) — тесты работы с аккаунтом пользователя и настройками
