@@ -46,3 +46,8 @@
 - [Корзина](https://github.com/daniilg17/testing-website/blob/main/basketQase.md) — тест-кейсы функционала корзины  
 - [Оформление заказа](https://github.com/daniilg17/testing-website/blob/main/orderQatouch.md) — тестирование оформления покупки и выбора способов доставки/оплаты  
 - [Личный кабинет](https://github.com/daniilg17/testing-website/blob/main/profileTestiny.md) — тесты работы с аккаунтом пользователя и настройками
+- [Список багов](https://github.com/daniilg17/testing-website/blob/main/bugs.md) — баг-репорты, оформленные в Jira, YouTrack и Redmine  
+
+---
+
+🔙 [Вернуться назад к описанию проекта](https://github.com/daniilg17/testing-website/blob/main/README.md)
